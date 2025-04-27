@@ -1,4 +1,4 @@
-### Hi everyone! I'm Carlos, spanish backend developer working since the end of 2021.
+### Hi everyone! I'm Carlos, spanish backend developer.
 
 This account is quite inactive as I use another one for work (**grave mistake, never do that!**), but I might sometimes upload cool stuff if I feel like trying to code something that I might use myself,
 such as... *Youtube audio player on Discord after they killed Groovy cough cough*.
